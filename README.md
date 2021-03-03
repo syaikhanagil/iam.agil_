@@ -8,9 +8,6 @@
 </p>
 <hr/>
 <p align="center">
- <samp>#react, #vue, #laravel<br>#nodejs, #php, #flutter, #java</samp>
-</p>
-<p align="center">
  <a href="mailto:hello@agiel.id">
   <img src="https://img.shields.io/static/v1?label=Email&message=hello@agiel.id&color=critical&style=for-the-badge&amp;link=mailto:hello@agiel.id" alt="Email">
  </a>
