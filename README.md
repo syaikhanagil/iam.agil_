@@ -18,4 +18,6 @@
   <img src="https://img.shields.io/static/v1?label=ig&message=@iam.agil_&color=blueviolet&style=for-the-badge&link=https://instagram.com/iam.agil_" alt="Instagram">
  </a>
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syaikhanagil)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+![syaikhanagil top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syaikhanagil&langs_count=10&layout=compact)
+</div>
