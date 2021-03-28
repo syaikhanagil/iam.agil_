@@ -17,5 +17,5 @@
  <a href="https://instagram.com/iam.agil_">
   <img src="https://img.shields.io/static/v1?label=ig&message=@iam.agil_&color=blueviolet&style=for-the-badge&link=https://instagram.com/iam.agil_" alt="Instagram">
  </a>
-![syaikhanagil's top languanges](https://github-readme-stats.vercel.app/api/top-langs/?username=syaikhanagil&hide=html,css,vue,objective-c&langs_count=7)
 </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syaikhanagil)](https://github.com/anuraghazra/github-readme-stats)
