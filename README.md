@@ -21,6 +21,6 @@
 <p align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syaikhanagil&langs_count=10&layout=compact)](https://github.com/syaikhanagil)
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=syaikhanagil&show_icons=true&count_private=true&line_height=40&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=syaikhanagil&show_icons=true&count_private=true&line_height=40&hide=issues,contribs)](https://github.com/syaikhanagil)
 
 </p>
