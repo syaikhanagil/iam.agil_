@@ -18,6 +18,9 @@
   <img src="https://img.shields.io/static/v1?label=ig&message=@iam.agil_&color=blueviolet&style=for-the-badge&link=https://instagram.com/iam.agil_" alt="Instagram">
  </a>
 </p>
-<div>
-![syaikhanagil top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syaikhanagil&langs_count=10&layout=compact)
-</div>
+<p align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syaikhanagil&langs_count=10&layout=compact)](https://github.com/syaikhanagil)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=syaikhanagil&show_icons=true&count_private=true&line_height=40&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+</p>
