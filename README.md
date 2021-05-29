@@ -9,7 +9,7 @@
 <hr/>
 <p align="center">
  <a href="mailto:iam@agiel.id">
-  <img src="https://img.shields.io/static/v1?label=Email&message=hello@agiel.id&color=critical&style=for-the-badge&amp;link=mailto:hello@agiel.id" alt="Email">
+  <img src="https://img.shields.io/static/v1?label=Email&message=iam@agiel.id&color=critical&style=for-the-badge&amp;link=mailto:iam@agiel.id" alt="Email">
  </a>
  <a href="https://facebook.com/syaikhanagil.id">
   <img src="https://img.shields.io/static/v1?label=fb&message=SyaikhanAgil&color=blue&style=for-the-badge&amp;link=https://facebook.com/syaikhanagil.id" alt="Facebook">
